@@ -23,6 +23,11 @@
   .headingMd {
     font-size: 1.2rem;
     line-height: 1.5;
+    min-height:70vh;
+  }
+
+  .headingMd h2 {
+    text-transform: uppercase;
   }
   
   .borderCircle {
